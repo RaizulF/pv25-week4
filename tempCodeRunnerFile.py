@@ -1,0 +1,1 @@
+self.listView.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
